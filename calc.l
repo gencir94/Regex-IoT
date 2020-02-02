@@ -1,13 +1,4 @@
 
-/** 
-
-1) sistemare lunghezza coap, facendo espessioni regolari per le opzioni. Inoltre, fare start contition dopo i token.
-2) sistemare la fine amqp
-3) fare delle prove 
-4) usare yy_buffer o generare da codice
-
-
- */
 %{
 
     #include <stdlib.h>
